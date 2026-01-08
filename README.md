@@ -6,9 +6,9 @@
 
 [**Placeholder - Write a brief description of your Task-Manager project here.**]
 
-*What does it do?*
-*Who is it for?*
-*What problem does it solve?*
+*You can add new tasks*
+*Could be used by any person who wants to keep a reminder of the tasks he need to do for the day*
+*Helps you keep recall if there are any tasks left for the day/week/month*
 
 **Example:**
 
@@ -47,21 +47,21 @@
 [**Explain how others can contribute to the project.**]
 
 *   Feel free to submit issues and pull requests.
-*   [Add specific guidelines for contributions]
 
 ## License
 
 [**Specify the license under which the project is released.**]
 
-*   [Choose a license (e.g., MIT, Apache 2.0, GPL)]
+*   Just a basic practice project to know the working of HTML, CSS and JavaScript
 
 ## Contact
 
 [**Provide contact information or links to your profile.**]
 
 *   [Your GitHub profile link]
-*   [Your email address (optional)]
+*   [amandeepyadav@gmail.com]
 
 ## Acknowledgements
 
-[**Acknowledge any resources or libraries used.**]
+**CSS**
+**JavaScript**
