@@ -58,7 +58,7 @@
 
 [**Provide contact information or links to your profile.**]
 
-*   [Your GitHub profile link]
+*   [Instagram- @amandeepyadav0704]
 *   [amandeepyadav@gmail.com]
 
 ## Acknowledgements
