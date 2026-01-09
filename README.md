@@ -44,7 +44,7 @@
 
 ## Contributing
 
-[**Explain how others can contribute to the project.**]
+[**How others can contribute to the project.**]
 
 *   Feel free to submit issues and pull requests.
 
