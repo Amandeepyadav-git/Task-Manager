@@ -4,7 +4,7 @@
 
 ## Description
 
-[**Placeholder - Write a brief description of your Task-Manager project here.**]
+[**Brief description of your Task-Manager project.**]
 
 *You can add new tasks*
 *Could be used by any person who wants to keep a reminder of the tasks he need to do for the day*
